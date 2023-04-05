@@ -1,7 +1,7 @@
 ### What's up everyone! I am NewJcole!
 
 I'm a...
-- Full Stack Developer
+- Front End Developer
 
 Tech Stack
 - HTML | CSS | Javascript
