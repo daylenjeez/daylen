@@ -1,4 +1,4 @@
-### What's up everyone! I am NewJcole!
+### What's up everyone! I am Daylen Wang!
 
 I'm a...
 - Front End Developer
